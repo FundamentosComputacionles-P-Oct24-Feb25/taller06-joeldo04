@@ -1,4 +1,5 @@
 # Taller 6
+### Joel Domínguez Ochoa 
 ## Representación gráfica y diseño de la solución de problemas con miniespecificacioes aplicando estructuras condicionales y repetitivas (ciclo mientras)
 * Antes de resolver los problemas, leer y analizar detenidamente los ejercicios de la carpeta **ejemplos**
 * Resolver las siguientes problemáticas; generar:
